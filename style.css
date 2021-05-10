@@ -1,0 +1,30 @@
+body
+{ 
+	color: black;
+	background-color:rgb(70,70,70);
+	font-weight: bold;
+	
+}
+
+
+
+
+
+
+.bloctext{
+	width: 1200px;
+		margin:50px auto;
+		background-color:rgb(160,160,160);
+		align-content: center;
+		text-align: center;
+		box-shadow: 20px 20px 60px rgb(0,0,0,0.5);
+		border-radius: 20px;
+		transition :4s;
+		
+	}
+
+#photo{
+
+	border-radius: 50%;
+
+}
